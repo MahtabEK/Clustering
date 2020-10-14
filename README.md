@@ -1,0 +1,2 @@
+# Clustering
+In this project, I have made with some age (measured in years) and height (measured in fractional feet. So, for instance, 5 feet 6 inches would be 5.5 since there are 12 inches in a foot). In the data, there is a feature called true_cluster. Usually, this column would never be available (after all, clustering is a form of unsupervised learning). I have not used this column in my clustering either. This column has been included for the sole purpose of comparing clustering methods to ground truth.
